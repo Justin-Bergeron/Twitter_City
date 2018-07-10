@@ -16,4 +16,3 @@ It takes about 6 hours to run due to twitter API limitations.
  7. In next cell change the csv file to your output file for pandas.  
  8. In the plotly cell just change the title of the map. there should be a new window that opens with the map.   
  9. In the top righthand corner of the window there is a button to download it as a PNG.   
- 10. Profit.  
